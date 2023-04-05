@@ -20,5 +20,5 @@ To run this program, you will need to have the following software installed on y
 #### Usage 
 The program will display a menu of options that you can choose from to add, view, or delete expenses. The expenses are stored in a list within the ExpenseTracker    object. The program uses the LocalDate class to represent dates, and it validates user input to ensure that it is in the correct format.
 
-### Contributing 
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
+### Contributing :monkey:
+If you would like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. 
